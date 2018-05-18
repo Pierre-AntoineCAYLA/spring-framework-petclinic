@@ -27,7 +27,6 @@
         <webjars-jquery.version>2.2.4</webjars-jquery.version>
         <wro4j.version>1.8.0</wro4j.version>
 
-
         <!-- Java EE / Java SE dependencies -->
         <tomcat.version>8.0.50</tomcat.version>
         <jaxb.version>2.2.11</jaxb.version>
